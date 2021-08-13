@@ -1,0 +1,28 @@
+{
+  "friendCodes": [
+    {
+      "id": 1,
+      "plataform": "Steam",
+      "name": "ZSharoarkBR",
+      "code": "ZSharoarkBR"
+    },
+    {
+      "id": 2,
+      "plataform": "Pokémon HOME",
+      "name": "ZSharoark",
+      "code": "TNBFXALHMKDT"
+    },
+    {
+      "id": 3,
+      "plataform": "Pokémon GO",
+      "name": "Rinzl03r",
+      "code": "217310295727"
+    },
+    {
+      "id": 4,
+      "plataform": "Playstation",
+      "name": "ZSharoarkBR",
+      "code": "ZSharoarkBR"
+    }
+  ]
+}
